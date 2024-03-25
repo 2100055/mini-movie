@@ -34,6 +34,7 @@ while True:
         continue
     else:
         print("??  that looks like a typo, please try again")
+        
         continue
 
     tickets_sold += 1
